@@ -119,7 +119,7 @@ git pull
 >
 > easiest way is just make a pull request on github, or google it
 
-## advances stuff?
+## advanced?? stuff?
 
 If youre gonna use CLI alot, set up some `alias` or script to reduce the keystrokes
 
