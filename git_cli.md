@@ -13,6 +13,15 @@ other cloud based code repositories
 each offer different extra features but let just stick with github for now, general interaction with each platform through `git` is identical
 > you could also host your own git server
 
+- [git](#git)
+  - [workflows](#workflows)
+    - [setting up git](#setting-up-git)
+    - [saving new changes](#saving-new-changes)
+    - [updating local with new remote changes](#updating-local-with-new-remote-changes)
+    - [branches](#branches)
+    - [merging](#merging)
+  - [advanced?? stuff?](#advanced-stuff)
+
 ##  workflows
 
 > ofc theres more nuances in these commands, so just google `any git command` to learn more.
