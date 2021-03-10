@@ -125,7 +125,7 @@ git pull
 
 ### merging
 
-> ill do this *later*, remind me if i forgot
+> ill do this *later*
 >
 > easiest way is just make a pull request on github, or google it
 
