@@ -10,6 +10,7 @@ other cloud based code repositories
 - bitbucket (atlassian)
 - gitlab
 - sourceforge
+
 each offer different extra features but let just stick with github for now, general interaction with each platform through `git` is identical
 > you could also host your own git server
 
