@@ -43,7 +43,7 @@ git clone <repo_url>
   # either `cd` into your project folder and run
   git init
   # or do this
-  git init <new_project folder>
+  git init <new_project_folder>
 
   # NEXT link to remote repo
   # note you can have multiple remote repo linked to 1 project
